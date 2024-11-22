@@ -1,0 +1,12 @@
+C:\Users\AS\Desktop\Projects\Calculator Project\bin\Debug\Calculator Project.exe.config
+C:\Users\AS\Desktop\Projects\Calculator Project\bin\Debug\Calculator Project.exe
+C:\Users\AS\Desktop\Projects\Calculator Project\bin\Debug\Calculator Project.pdb
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator Project.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator_Project.Properties.Resources.resources
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator Project.csproj.GenerateResource.cache
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator Project.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator Project.exe
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculator Project.pdb
+C:\Users\AS\Desktop\Projects\Calculator Project\bin\Debug\Guna.UI2.dll
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculat.411F5CD8.Up2Date
+C:\Users\AS\Desktop\Projects\Calculator Project\obj\Debug\Calculater.FrmCalculator.resources
