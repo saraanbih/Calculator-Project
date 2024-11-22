@@ -66,13 +66,3 @@ For questions, feedback, or suggestions, feel free to reach out:
 - ✨ **GitHub**: [https://github.com/yourusername]
 ```
 
----
-
-### Steps to Upload the README to GitHub:
-
-1. Go to your GitHub repository for the **Calculator Project**.
-2. Create a file called `README.md` in the root directory of your repository.
-3. Copy the template above and paste it into the `README.md` file.
-4. Commit the changes to save it.
-
-This **README** template is simple yet informative, helping users and potential contributors understand the project and get started with it easily! Let me know if you'd like help with any specific parts! 😊
