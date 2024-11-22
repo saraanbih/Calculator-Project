@@ -59,10 +59,9 @@ This calculator app supports the following functionalities:
 ---
 
 ## **📞 Contact**
-For questions, feedback, or suggestions, feel free to reach out:
+For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- 📧 **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/yourprofile]
-- ✨ **GitHub**: [https://github.com/yourusername]
-```
+- 📧 **Email**: [nabihsara8@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sara-nabih-4168212a3/]
+- ✈️ **Telegram**: [https://t.me/Sara_Nabih]
 
